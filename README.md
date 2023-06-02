@@ -1,8 +1,6 @@
 # My_Personal_Portfolio
-<DOCTYPE! html>
 <html>
   <head>
-    <title> My_Personal_Portfolio</title>
   </head>
   <body>
     <h2>This Is My Personal Portfolio</h2>
